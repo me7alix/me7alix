@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Michael! 👋
 
-<!--
-**me7alix/me7alix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a coder with an interest in building innovative and efficient solutions. Here you'll find a collection of my projects, contributions, and experiments. 
 
-Here are some ideas to get you started:
+## 🔭 Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Voxel engine**: My first attempt at creating something on the OpenGL
+- **Social network API**: A server application with a microservice architecture written in Golang. The project is under development.
+- **CLI-LLM-client**: A simple LLM client written in python.
+
+## 🌱 Learning and Development
+
+I'm currently learning and improving my skills in:
+- Advanced Golang programming
+- Machine Learning and AI
+- Web development with Golang
+
+## 📈 GitHub Stats
+
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=me7alix&show_icons=true&theme=radical)
+
+## 🎮 Fun Facts
+
+- I love playing video games and exploring new technologies.
+- I like to read books by Isaac Asimov.
+- Writing shaders is a real art.
+
+Thanks for stopping by! Have a great day! 😊

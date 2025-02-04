@@ -19,10 +19,4 @@ I'm currently learning and improving my skills in:
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=me7alix&show_icons=true&theme=radical)
 
-## 🎮 Fun Facts
-
-- I love playing video games and exploring new technologies.
-- I like to read books by Isaac Asimov.
-- Writing shaders is a real art.
-
 Thanks for stopping by! Have a great day! 😊

@@ -3,10 +3,11 @@
 Welcome to my GitHub profile! I'm a coder with an interest in building innovative and efficient solutions. Here you'll find a collection of my projects, contributions, and experiments. 
 
 ## 🔭 Current Projects
-
+- **nn.h**: A simple library for creating neural networks in C
+- **3D renderer**: My first attempt to create a 3D renderer from scratch
 - **Voxel engine**: My first attempt at creating something on the OpenGL
 - **Social network API**: A server application with a microservice architecture written in Golang. The project is under development.
-- **CLI-LLM-client**: A simple LLM client written in python.
+- **CLI-LLM-client**: A simple LLM client written in python
 
 ## 🌱 Learning and Development
 

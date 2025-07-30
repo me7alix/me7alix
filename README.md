@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm a coder with an interest in building innovativ
 - **nn.h**: A simple library for creating neural networks in C
 - **3D renderer**: My first attempt to create a 3D renderer from scratch
 - **Voxel engine**: My first attempt at creating something on the OpenGL
-- **Social network API**: A server application with a microservice architecture written in Golang. The project is under development.
-- **CLI-LLM-client**: A simple LLM client written in python
+- **rocker-dudes**: Multiplayer game written in Odin
+- **htmpl.h**: HTML templates to C compiler
 
 ## 🌱 Learning and Development
 

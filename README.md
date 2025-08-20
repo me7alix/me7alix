@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a coder with an interest in backend developmen
 #### My Projects
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=nn.h&theme=calm_pink"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=http.h&theme=calm_pink"></td>
     <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=da.h&theme=calm_pink"></td>
     <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=htmpl.h&theme=calm_pink"></td>
   </tr>
@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a coder with an interest in backend developmen
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=voxel-engine&theme=calm_pink"></td>
     <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=nvim&theme=calm_pink"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=conf.h&theme=calm_pink"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=nn.h&theme=calm_pink"></td>
   </tr>
 </table>
 

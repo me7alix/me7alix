@@ -5,29 +5,21 @@ Welcome to my GitHub profile! I'm a coder with an interest in backend developmen
 [![My Skills](https://skillicons.dev/icons?i=git,docker,c,go,html,css)](https://skillicons.dev)
 
 #### My Projects
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=http.h&theme=calm_pink"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=da.h&theme=calm_pink"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=htmpl.h&theme=calm_pink"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=bpe.odin&theme=calm_pink"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=rocket-dudes&theme=calm_pink"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=WFC&theme=calm_pink"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=voxel-engine&theme=calm_pink"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=nvim&theme=calm_pink"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=nn.h&theme=calm_pink"></td>
-  </tr>
-</table>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=http.h&theme=github_dark_dimmed)](https://github.com/me7alix/http.h)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=da.h&theme=github_dark_dimmed)](https://github.com/me7alix/da.h)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=htmpl.h&theme=github_dark_dimmed)](https://github.com/me7alix/htmpl.h)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=bpe.odin&theme=github_dark_dimmed)](https://github.com/me7alix/bpe.odin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=rocket-dudes&theme=github_dark_dimmed)](https://github.com/me7alix/rocket-dudes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=WFC&theme=github_dark_dimmed)](https://github.com/me7alix/WFC)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=nvim&theme=github_dark_dimmed)](https://github.com/me7alix/nvim)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=nn.h&theme=github_dark_dimmed)](https://github.com/me7alix/nn.h)
+
 
 #### GitHub Stats
-<table
-  <tr,>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=me7alix&show_icons=true&theme=calm_pink" height="400px"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=me7alix&theme=calm_pink&layout=donut" height="400px"/></td>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=me7alix&show_icons=true&theme=github_dark_dimmed" height="400px"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=me7alix&theme=github_dark_dimmed&layout=donut" height="400px"/></td>
   </tr>
 </table>
 

@@ -5,15 +5,56 @@ Welcome to my GitHub profile! I'm a coder with an interest in backend developmen
 [![My Skills](https://skillicons.dev/icons?i=git,docker,c,go,html,css)](https://skillicons.dev)
 
 #### My Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=http.h&theme=github_dark_dimmed)](https://github.com/me7alix/http.h)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=da.h&theme=github_dark_dimmed)](https://github.com/me7alix/da.h)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=htmpl.h&theme=github_dark_dimmed)](https://github.com/me7alix/htmpl.h)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=bpe.odin&theme=github_dark_dimmed)](https://github.com/me7alix/bpe.odin)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=rocket-dudes&theme=github_dark_dimmed)](https://github.com/me7alix/rocket-dudes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=WFC&theme=github_dark_dimmed)](https://github.com/me7alix/WFC)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=nvim&theme=github_dark_dimmed)](https://github.com/me7alix/nvim)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=nn.h&theme=github_dark_dimmed)](https://github.com/me7alix/nn.h)
-
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/me7alix/http.h">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=http.h&theme=github_dark_dimmed">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/me7alix/da.h">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=da.h&theme=github_dark_dimmed">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/me7alix/htmpl.h">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=htmpl.h&theme=github_dark_dimmed">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/me7alix/bpe.odin">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=bpe.odin&theme=github_dark_dimmed">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/me7alix/rocket-dudes">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=rocket-dudes&theme=github_dark_dimmed">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/me7alix/WFC">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=WFC&theme=github_dark_dimmed">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/me7alix/nvim">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=nvim&theme=github_dark_dimmed">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/me7alix/nn.h">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=me7alix&repo=nn.h&theme=github_dark_dimmed">
+      </a>
+    </td>
+  </tr>
+</table>
 
 #### GitHub Stats
 <table>
@@ -22,6 +63,5 @@ Welcome to my GitHub profile! I'm a coder with an interest in backend developmen
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=me7alix&theme=github_dark_dimmed&layout=donut" height="400px"/></td>
   </tr>
 </table>
-
 
 Thanks for stopping by! Have a great day! 😊
